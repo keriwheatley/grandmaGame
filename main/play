@@ -1,0 +1,7 @@
+#debug turned on
+import pdb; pdb.set_trace()
+
+#start the game
+import games
+
+games.start_grandmaGame()
